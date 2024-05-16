@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mamba.UI/1.0.0": {
+        "dependencies": {
+          "Mamba.Business": "1.0.0"
+        },
+        "runtime": {
+          "Mamba.UI.dll": {}
+        }
+      },
+      "Mamba.Business/1.0.0": {
+        "dependencies": {
+          "Mamba.Data": "1.0.0"
+        },
+        "runtime": {
+          "Mamba.Business.dll": {}
+        }
+      },
+      "Mamba.Core/1.0.0": {
+        "runtime": {
+          "Mamba.Core.dll": {}
+        }
+      },
+      "Mamba.Data/1.0.0": {
+        "dependencies": {
+          "Mamba.Core": "1.0.0"
+        },
+        "runtime": {
+          "Mamba.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mamba.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mamba.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mamba.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mamba.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

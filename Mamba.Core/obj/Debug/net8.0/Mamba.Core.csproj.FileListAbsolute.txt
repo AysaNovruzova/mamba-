@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\bin\Debug\net8.0\Mamba.Core.deps.json
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\bin\Debug\net8.0\Mamba.Core.dll
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\bin\Debug\net8.0\Mamba.Core.pdb
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.sourcelink.json
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.dll
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\refint\Mamba.Core.dll
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.pdb
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\ref\Mamba.Core.dll
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\bin\Debug\net8.0\Mamba.Core.runtimeconfig.json
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.genruntimeconfig.cache
+C:\Users\HP\Desktop\MambaTemplate\Mamba.Core\obj\Debug\net8.0\Mamba.Core.csproj.AssemblyReference.cache
